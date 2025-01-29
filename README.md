@@ -1,7 +1,7 @@
 # ✈️ British Airways Customer Review Analysis
 
 ## 📌 Project Overview
-This project analyzes **1,000+ British Airways customer reviews** using **Natural Language Processing (NLP) & Data Science** to extract insights, identify common complaints, and provide **data-driven recommendations** to improve customer experience.
+This project analyzes **11,900+ British Airways customer reviews** from www.airlinequality.com using **Natural Language Processing (NLP) & Data Science** to extract insights, identify common complaints, and provide **data-driven recommendations** to improve customer experience.
 
 ## 📊 Results & Findings
 ### **Sentiment Distribution:**
